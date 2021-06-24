@@ -49,7 +49,6 @@ $(function() {
 
                 //调用父页面的方法，更新头像信息
                 window.parent.getUserInfo()
-
             }
         })
     })
